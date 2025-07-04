@@ -1,0 +1,11 @@
+{
+  "name": "chat-bridge",
+  "version": "1.0.0",
+  "description": "Chat App built using MERN stack & Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pritam Saha",
+  "license": "ISC"
+}
